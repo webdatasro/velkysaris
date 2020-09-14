@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816533965189",
+    "firebase_url": "https://velkysaris-49749.firebaseio.com",
+    "project_id": "velkysaris-49749",
+    "storage_bucket": "velkysaris-49749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816533965189:android:164713e50abdaa7a009cec",
+        "android_client_info": {
+          "package_name": "com.westo.velkysaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816533965189-35f35pj9m21bnit864m1fr67v0674cep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.westo.velkysaris",
+            "certificate_hash": "dceb05dc32a16be0886b6afcddb5167b1ee1c07f"
+          }
+        },
+        {
+          "client_id": "816533965189-rio1ogelgbd94n0vvumbjq0upufks4bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4JZBtPcbMOQIZr3tIVRGDLt-e436zOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816533965189-rio1ogelgbd94n0vvumbjq0upufks4bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
